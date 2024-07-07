@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaximusKilly, Unity C# developer
-- 🎁 I’m interested in coding on C# and creating my own projects/teams projects
+- 🎁 I’m interested in coding, especially in game development
 - 📫 My mail: maximus65666566@gmail.com
 - 🎮 My itch io: https://tasty-ink-games.itch.io/
 
